@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BABUxGAMER&label=Profile%20Views&color=ff00ff&style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=babulalxdj&label=Profile%20Views&color=ff00ff&style=for-the-badge&logo=github" alt="Profile Views" />
 </div>
 
 <br/>
@@ -60,12 +60,12 @@
 ### 👾 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BABUxGAMER&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=babulalxdj&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BABUxGAMER&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BABUxGAMER&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=babulalxdj&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babulalxdj&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <br/>
@@ -74,9 +74,9 @@
 <div align="center">
   <h3>🐍 Contribution Snake Game</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BABUxGAMER/BABUxGAMER/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BABUxGAMER/BABUxGAMER/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BABUxGAMER/BABUxGAMER/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/babulalxdj/babulalxdj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/babulalxdj/babulalxdj/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/babulalxdj/babulalxdj/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
